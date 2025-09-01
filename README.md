@@ -1,7 +1,11 @@
 ### hey everyone! my name is ethan :)
 
+[![Resume](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ethan-yang.vercel.app/Ethan_Yang_resume.pdf)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ethanyang10/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yang_ethan@berkeley.edu)
+&nbsp;
 
-What's up! My name is Ethan Yang and I am an undergraduate student at [UC Berkeley](https://eecs.berkeley.edu/cs/) majoring in Computer Science and Data Science. I am a full-stack software developer with three years of experience building fully functional applications. Currently, I've developed an interest in machine learning, and really want to learn more about AI. I'm  pursuing opportunities in software development and machine learning!
+What's up! My name is Ethan Yang and I am an undergrad student at [UC Berkeley](https://eecs.berkeley.edu/cs/) majoring in Computer Science and Data Science. I am a full-stack software developer with three years of experience building fully functional applications. Currently, I've developed an interest in machine learning, and really want to learn more about AI. I'm  pursuing opportunities in software development and machine learning!
 
 - 🔭 Right now, I am engineering a diffusion-based video pipeline that automates the conversion of 2D character images into standardized A-poses to cut manual animation time @ 
  [Claythis](https://claythis.com/)
