@@ -8,7 +8,7 @@ What's up! My name is Ethan Yang and I am an undergraduate student at [UC Berkel
 - 💬 I love traveling, lifting weights, trying new and strange foods, playing tennis (or pickleball), strumming the guitar, and listening to music (RnB, praise, Kpop)!  
 - ⚡ Fun fact: During the COVID-19 pandemic, I built an app called Attendance Track that offers secure attendance taking and creative administration tools designed specifically to run remote schools. This app won the Congressional National App Challenge during the COVID-19 pandemic.
 - 📫 I'd love to chat :) Reach out at: yang_ethan@berkeley.edu
-- 📝 [Resume]([https://drive.google.com/file/d/1TLKtXMt6v4y1lKE5AxQ2c1yJx073sSyo/view?usp=sharing](https://ethan-yang.vercel.app/Ethan_Yang_resume.pdf))
+- 📝 [Resume]([https://drive.google.com/file/d/1TLKtXMt6v4y1lKE5AxQ2c1yJx073sSyo/view?usp=sharing](https://ethan-yang.vercel.app/Ethan_Yang_resume.pdf)
 
 **Languages and Tools:** 
 
