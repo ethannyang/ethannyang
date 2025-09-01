@@ -1,6 +1,6 @@
 ### hey everyone! my name is ethan :)
 
-[![Resume](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ethan-yang.vercel.app/Ethan_Yang_resume.pdf)
+[![Resume](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ethan-yang.vercel.app)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ethanyang10/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yang_ethan@berkeley.edu)
 &nbsp;
