@@ -10,7 +10,7 @@ What's up! My name is Ethan Yang and I am an undergrad student at [UC Berkeley](
 - 🔭 Right now, I am engineering a diffusion-based video pipeline that automates the conversion of 2D character images into standardized A-poses to cut manual animation time @ 
  [Claythis](https://claythis.com/)
 - 💬 I love traveling, lifting weights, trying new and strange foods, playing tennis (or pickleball), strumming the guitar, going to church, and listening to music (worship, RnB, Kpop)!  
-- ⚡ Fun fact: During the COVID-19 pandemic, I built an app called Attendance Track that offers secure attendance taking and creative administration tools designed specifically to run remote schools. This app won the Congressional National App Challenge during the COVID-19 pandemic.
+- ⚡ Fun fact: During the COVID-19 pandemic, I built an app called AttendanceTrack that offers secure attendance taking and administration tools designed specifically to run remote schools. This app won the Congressional National App Challenge.
 - 📫 I'd love to chat :) Reach out at: yang_ethan@berkeley.edu
 - 📝 [Resume](https://ethan-yang.vercel.app/Ethan_Yang_resume.pdf)
 
