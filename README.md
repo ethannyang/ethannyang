@@ -27,7 +27,7 @@ What's up! My name is Ethan Yang and I am an undergrad student at [UC Berkeley](
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
-![Ethan's Github Stats](https://github-readme-stats.vercel.app/api?username=ethannyang&count_private=true&show_icons=true&include_all_commits=true)
+![a](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ethannyang&theme=react)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethannyang&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ethannyang.ethannyang)
