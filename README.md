@@ -7,8 +7,8 @@
 
 What's up! My name is Ethan Yang and I am an undergrad student at [UC Berkeley](https://eecs.berkeley.edu/cs/) majoring in Computer Science and Data Science. I am a full-stack software developer with 4+ years of experience building fully functional applications. Currently, I've developed an interest in machine learning, and really want to learn more about AI. I'm  pursuing opportunities in software development and machine learning!
 
-- 🔭 Currently engineering @ Harvey, the fastest growing legal AI platform
- [Harvey](https://www.harvey.ai/)
+- 🔭 Currently engineering @ [Harvey](https://www.harvey.ai/), the fastest growing legal AI platform
+ 
 - 💬 I love traveling, lifting weights, trying new and strange foods, playing tennis (or pickleball), strumming the guitar, going to church, and listening to music (worship, RnB, Kpop)!  
 - ⚡ Fun fact: During the COVID-19 pandemic, I built an app called AttendanceTrack that offers secure attendance taking and administration tools designed specifically to run remote schools. This app won the Congressional National App Challenge.
 - 📫 I'd love to chat :) Reach out at: yang_ethan@berkeley.edu
